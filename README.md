@@ -8,7 +8,7 @@
 <!-- PROFILE HEADER IMAGE -->
 <picture>
   <img
-    src="./assets/data-quote.jpg"
+    src="data-quote.jpg"
     align="right"
     width="35%"
     alt="Data Quote"
