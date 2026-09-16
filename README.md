@@ -1,12 +1,18 @@
-# About Me
+# Hello World! 
 
-I'm Kaucikan G, a Computer Science and Business Systems undergraduate with a strong interest in Data Engineering and Cloud Technologies.
+I'm Kaucikan, a Computer Science and Business Systems undergraduate at **ER. Perumal Manimekalai College of Engineering, Hosur**, passionate about Data Engineering, Cloud Technologies, and building practical software solutions.
 
-My primary focus is on building data pipelines, transforming data, and working with technologies such as Python, SQL, PySpark, Databricks, and AWS.
+I'm currently focused on developing my skills in data processing, ETL pipelines, and cloud-based data engineering.
 
-With a background in full-stack development and hands-on experience building real-world projects, I enjoy solving technical problems and exploring practical applications of technology.
+- Currently learning **Python, SQL, PySpark, Databricks, and AWS**.
+- Building end-to-end **data engineering projects** using modern data processing tools.
+- Exploring **Apache Spark, Delta Lake, data modeling, and data quality**.
+- Experienced in full-stack development using **React, Node.js, and Django**.
+- Interested in solving real-world problems through technology and continuous learning.
 
-I'm currently focused on strengthening my data engineering skills through hands-on projects and continuous learning..<br>
+**Career Goal:** To become a skilled Data Engineer and contribute to building reliable, scalable, and efficient data solutions.
+
+Feel free to explore my repositories and connect with me!<br>
 
 
 ## 🌐 Socials:
@@ -19,11 +25,6 @@ I'm currently focused on strengthening my data engineering skills through hands-
 ![](https://streak-stats.demolab.com/?user=Kaucikan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kaucikan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kaucikan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Kaucikan&icon=0&color=0)](https://visitcount.itsvg.in)
