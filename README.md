@@ -6,7 +6,7 @@
 
 <!-- PROFILE HEADER IMAGE -->
 <picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Workspace">
+  <img src="i_p_c_000000,s_630,q_90.jpg" align="right" width="35%" alt="Workspace">
 </picture>
 
 <!-- PROFILE INTRODUCTION -->
