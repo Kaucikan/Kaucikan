@@ -5,8 +5,14 @@
 </p>
 
 <!-- PROFILE HEADER IMAGE -->
+<!-- PROFILE HEADER IMAGE -->
 <picture>
-  <img src="i_p_c_000000,s_630,q_90.jpg" align="right" width="35%" alt="Workspace">
+  <img
+    src="./assets/data-quote.jpg"
+    align="right"
+    width="35%"
+    alt="Data Quote"
+  >
 </picture>
 
 <!-- PROFILE INTRODUCTION -->
