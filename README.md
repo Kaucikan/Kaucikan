@@ -36,7 +36,6 @@ I enjoy exploring new technologies, solving real-world problems, and turning ide
 - Interested in building reliable data solutions and continuously improving my technical skills.
 
 <br>
-<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 **Career Goal:** To become a skilled Data Engineer and contribute to building efficient, scalable, and reliable data solutions.
 
