@@ -101,8 +101,6 @@ I enjoy exploring new technologies, solving real-world problems, and turning ide
 
 <!-- GITHUB STATS -->
 
-## GitHub Statistics
-
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaucikan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
